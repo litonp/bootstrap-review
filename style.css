@@ -1,0 +1,32 @@
+.main-title {
+    text-align: center;
+}
+
+.card-img {
+    position: relative;
+}
+
+.card-img .bg-image {
+    max-width: 100%;
+    min-width: 100%;
+}
+
+.card-img-top {
+    height: 80px;
+    width: 80px;
+    margin: 0 auto;
+    display: block;
+    position: absolute;
+    bottom: -40px;
+    left: 30%;
+}
+
+.card-body {
+    margin-top: 50px;
+}
+
+.card-body h3,
+.card-body p {
+    text-align: center;
+
+}
