@@ -30,3 +30,26 @@
     text-align: center;
 
 }
+
+/* grid */
+
+.title {
+    text-align: center;
+}
+
+.column1 {
+    background-color: rgb(241, 185, 185);
+
+}
+
+.column2 {
+    background-color: rgb(188, 11, 79);
+}
+
+.column3 {
+    background-color: rgb(16, 113, 151);
+}
+
+.column4 {
+    background-color: rgb(7, 176, 64);
+}
